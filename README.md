@@ -1,4 +1,20 @@
-# chess_ai
+
+- [Ytb Vidéo - Simple Explanation of the Minimax Algorithm with Tic-Tac-Toe](https://www.youtube.com/watch?v=5y2a0Zhgq0U)
+- [Ytb Vidéo - The Fascinating Programming of a Chess Engine](https://www.youtube.com/watch?v=w4FFX_otR-4)
+- [Notebook 1 - Policy Iteration](https://www.kaggle.com/code/arjanso/reinforcement-learning-chess-1-policy-iteration)
+- [Notebook 2 - Model free learning](https://www.kaggle.com/code/arjanso/reinforcement-learning-chess-2-model-free-methods)
+- [Notebook 3 - Q-networks](https://www.kaggle.com/code/arjanso/reinforcement-learning-chess-3-q-networks)
+- [Notebook 4 - Policy Gradients](https://www.kaggle.com/code/arjanso/reinforcement-learning-chess-4-policy-gradients)
+- [Notebook 5 - Monte Carlo Tree Search](https://www.kaggle.com/code/arjanso/reinforcement-learning-chess-5-tree-search)
+
+
+
+Créer un tictactoc + minmax
+Règles des échecs
+
+
+
+
 
 ## Algos
 
